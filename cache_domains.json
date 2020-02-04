@@ -109,11 +109,6 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
-		},
-		{
-			"name": "oithousing",
-			"description": "CDN for OIT related content",
-			"domain_files": ["oit.txt"]
 		}
 	]
 }
